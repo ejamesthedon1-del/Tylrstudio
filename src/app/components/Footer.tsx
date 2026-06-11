@@ -1,4 +1,4 @@
-import { Camera, Instagram, Linkedin, Mail } from 'lucide-react';
+import { Camera, Mail } from 'lucide-react';
 import { useState } from 'react';
 
 export function Footer() {
@@ -57,14 +57,6 @@ export function Footer() {
                   <a href="mailto:tylrmadestudios@yahoo.com" className="text-white/70 hover:text-blue-500 transition-colors flex items-center gap-2">
                     <Mail className="w-4 h-4" />
                     tylrmadestudios@yahoo.com
-                  </a>
-                </li>
-                <li className="flex gap-4 mt-4">
-                  <a href="#" className="text-white/70 hover:text-blue-500 transition-colors">
-                    <Instagram className="w-5 h-5" />
-                  </a>
-                  <a href="#" className="text-white/70 hover:text-blue-500 transition-colors">
-                    <Linkedin className="w-5 h-5" />
                   </a>
                 </li>
               </ul>
