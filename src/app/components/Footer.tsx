@@ -54,9 +54,9 @@ export function Footer() {
               <h4 className="mb-4">Get in Touch</h4>
               <ul className="space-y-3">
                 <li>
-                  <a href="mailto:hello@tylortaylor.studio" className="text-white/70 hover:text-blue-500 transition-colors flex items-center gap-2">
+                  <a href="mailto:tylrmadestudios@yahoo.com" className="text-white/70 hover:text-blue-500 transition-colors flex items-center gap-2">
                     <Mail className="w-4 h-4" />
-                    hello@tylortaylor.studio
+                    tylrmadestudios@yahoo.com
                   </a>
                 </li>
                 <li className="flex gap-4 mt-4">
@@ -134,7 +134,7 @@ export function Footer() {
 
               <section>
                 <h3 className="text-xl mb-2 text-black">Your Rights</h3>
-                <p>You have the right to access, correct, or delete your personal information at any time. Contact us at hello@tylortaylor.studio to exercise these rights.</p>
+                <p>You have the right to access, correct, or delete your personal information at any time. Contact us at tylrmadestudios@yahoo.com to exercise these rights.</p>
               </section>
             </div>
             <button
